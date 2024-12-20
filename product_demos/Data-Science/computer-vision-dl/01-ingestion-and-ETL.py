@@ -19,6 +19,7 @@
 
 # COMMAND ----------
 
+# DBTITLE 1,run init scripts
 # MAGIC %run ./_resources/00-init $reset_all_data=false
 
 # COMMAND ----------

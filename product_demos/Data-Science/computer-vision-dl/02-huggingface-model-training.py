@@ -48,7 +48,7 @@ display(df.limit(10))
 # MAGIC
 # MAGIC Hugging face makes this step very easy. All it takes is calling the `Dataset.from_spark` function. 
 # MAGIC
-# MAGIC Read the <a href="https://www.databricks.com/blog/contributing-spark-loader-for-hugging-face-datasets">blogbost</a> for more detail on the new Delta Loader.
+# MAGIC Read the <a href="https://www.databricks.com/blog/contributing-spark-loader-for-hugging-face-datasets">blog post</a> for more detail on the new Delta Loader.
 
 # COMMAND ----------
 
